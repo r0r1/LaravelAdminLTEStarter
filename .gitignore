@@ -1,6 +1,11 @@
 /vendor
 /node_modules
-/public
+/public/css
+/public/build
+/public/fonts
+/public/img
+/public/js
+/public/plugins
 Homestead.yaml
 Homestead.json
 .env
