@@ -16,6 +16,12 @@ bower install
 # run gulp for compile asset
 gulp
 
+# migrate users table
+php artisan migrate
+
+# seed user
+php artisan db:seed
+
 # run
 php artisan serve
 ```
