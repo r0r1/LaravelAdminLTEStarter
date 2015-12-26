@@ -9,3 +9,5 @@
 Homestead.yaml
 Homestead.json
 .env
+
+tests/_output/*
