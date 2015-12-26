@@ -1,0 +1,26 @@
+{
+  "name": "Laravel AdminLTE starter",
+  "description": "Laravel AdminLTE starter",
+  "main": "",
+  "authors": [
+    "Rori Kurniadi <rori.kurniadi@yahoo.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [
+    "globals"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "AdminLTE": "admin-lte#~2.3.2",
+    "font-awesome": "~4.5.0",
+    "Ionicons": "ionicons#~2.0.1",
+    "bootstrap-sass": "bootstrap-sass-official#~3.3.6"
+  }
+}
